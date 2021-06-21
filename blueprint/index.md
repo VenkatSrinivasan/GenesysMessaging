@@ -25,7 +25,7 @@ The flow performs the following functions:
 
 A high-level representation of the implementation can be seen in the diagram.
 
-![](blueprint/images/Architecture.png)
+![](images/Architecture.png)
 
 You can learn more about Limitless and Genesys at: [https://www.limitlesstech.com/genesys/](https://www.limitlesstech.com/genesys/)
 
